@@ -26,7 +26,3 @@ export function getinputDirection() {
     lastInputDirection = inputDirection
     return  inputDirection
 }
-export function getinputDirection() {
-    lastInputDirection = inputDirection
-    return  inputDirection
-}

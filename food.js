@@ -12,8 +12,7 @@ export function update() {
         food = getRandomFoodPosition()
         count += EXPANSION_RATE;
     }
-score.innerHTML = `score: ${count}`
-console.log(count)
+score.innerHTML = `score: ${count}`;
 }
 
 

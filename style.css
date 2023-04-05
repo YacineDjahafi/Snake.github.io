@@ -6,9 +6,6 @@ body{
     background-color: black;
     width: 80vmax;
 }
-/* body::-webkit-scrollbar{
-    display: none;
-} */
 #flex{
     height: 90vh;
     width: 100vw;
